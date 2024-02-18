@@ -116,6 +116,19 @@
             "urlToImage": "https://file.bodnara.co.kr/up/news/192635-11.jpg",
             "publishedAt": "2024-02-16T09:07:00Z",
             "content": "<table><tr><td></td></tr><tr><td></td></tr><td></td><tr><td></td></tr><tr><td> 2024-02-16 18:07 press@bodnara.co.kr</td></tr><tr><td></td></tr><tr><td></td></tr>\r\n<tr><td></td></tr><tr><td></td></tr>… [+778 chars]"
-        }
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Chosun.com"
+            },
+            "author": "조선일보",
+            "title": "기시다 방북, 트럼프 재선 기대… 韓美日 공조 흔드는 北 - 조선일보",
+            "description": "기시다 방북, 트럼프 재선 기대 韓美日 공조 흔드는 北 뉴스&뷰 日에 접근하는 北 급변하는 동북아",
+            "url": "https://www.chosun.com/politics/2024/02/17/MMDA7T3B5NGIFEYTJ4W52Q4JSE/",
+            "urlToImage": "https://images.chosun.com/resizer/w7ixuMsA6JzyQdre9Uw1TTBthuo=/480x252/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDKSUO4OVJHEXB7EMM4WZM6NGU.png",
+            "publishedAt": "2024-02-16T18:57:00Z",
+            "content": null
+        },
     ]
 }
